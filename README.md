@@ -1,3 +1,5 @@
+![Image Boxer](app.png)
+
 # Image Boxer
 
 A Python utility that resizes images to match a specified aspect ratio, with options for both cropping and non-cropping approaches.
