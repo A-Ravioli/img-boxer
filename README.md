@@ -1,6 +1,6 @@
-![Image Boxer](app.png)
+![Screenshot of app](app.png)
 
-# Image Boxer
+# pyMosaic
 
 A Python utility that resizes images to match a specified aspect ratio, with options for both cropping and non-cropping approaches.
 
